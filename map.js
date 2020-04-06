@@ -43,11 +43,12 @@ var array = [{name : "yasser" , age : 21} ,  {name : "Khalid" , age : 31 } ,{nam
 
 // console.log(studentsWithGifts)
 
-// =========================================================================================
+
+//   ========================================================================================
 //                              !!+!!!+!  Bonus !+!!!+!! 
-// use only map! to conver the sentence to array of objects like =>[{name: "yasser" , age : 27  , id : 1} , ...]
+// أ - use only map! to conver the sentence to array of objects like =>[{name: "yasser" , age : 27  , id : 1} , ...]
 // and no undfinde plz !  
-var isThatArray = "Yasser 21 Ahmed 31 Ali 27 Ahlam 29 Atheer 25"
+var isThatArray = "Yasser 21 Abdulrahman 31 Adel 27 Abdulaziz 29 Atheer 25"
 
 
 
@@ -60,4 +61,18 @@ var isThatArray = "Yasser 21 Ahmed 31 Ali 27 Ahlam 29 Atheer 25"
 
 
 
-// console.log("")
+
+
+// =========================================================================================
+// ب  - Write a function shiftLetters that takes a string and uses .map to return an encoded string with each letter shifted down the
+// alphabet by one. Hint: Use Look up the JS functions String.fromCharCode() and String.charCodeAt() .
+// see if you can use Ascii code to acomplish this
+// ex. shiftLetters('hello') // => 'ifmmp'
+// ex. (shiftLetters('abcxyz') // => "bcdyz"
+var shiftLetters = (string) =>{
+    // code!
+  
+  };
+
+  
+//   console.log(shiftLetters("hello"))
