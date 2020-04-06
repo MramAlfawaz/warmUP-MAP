@@ -7,23 +7,3 @@ const students = [{name:'Asma'  , Gender :'female' } , {name:'Bashayr'  , Gender
 ,{name:'Ibrahim'  , Gender :'male' },{name:'Hamzah'  , Gender :'male' },{name:'Faisal'  , Gender :'male' },{name:'Edrees'  , Gender :'male' },{name:'Adel'  , Gender :'male' },
 {name:'Abdulrahman Albudayri'  , Gender :'male' },{name:'Abdulhameed'  , Gender :'male' },{name:'Abdulaziz Althagafi'  , Gender :'male' },{name:'Abdulaziz Alsubhi'  , Gender :'male' } ]
 
-
-// Asma 
-// Bashayr
-// Ghadeer 
-// Ghadeer 
-// Halah 
-// Hanan
-// Ibtihal 
-// Jawaher 
-// Lujen 
-// Malak 
-// Maram 
-// Maram 
-// Najlaa 
-// Ola
-// Rawan 
-// Samiah 
-// Sarah 
-
-console.log(students.length)
